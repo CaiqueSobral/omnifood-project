@@ -1,3 +1,13 @@
-# omnifood-project
+# Omnifood Project
 
-This is project HTML + CSS based, used as the final lecture of the web development course by Jonas Schmedtmann
+This is a project made for practicing and improving my HTML + CSS skills, so it is all made with only HTML and CSS
+
+## Authors
+
+- [Caique Sobral](https://www.github.com/caiquesobral)
+
+
+## Features
+
+- HTML
+- CSS
